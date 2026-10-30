@@ -1,0 +1,8 @@
+
+    KnowledgeAI is an AI-powered knowledge platform.
+    It uses Retrieval Augmented Generation (RAG).
+    The Generator creates answers using retrieved context.
+    The Evaluator checks accuracy, relevance, and completeness.
+    Redis is used for caching responses.
+    Qdrant stores vector embeddings.
+    
